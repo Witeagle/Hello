@@ -9,6 +9,8 @@ body {
 }
 p{
     text-align:center;
+    color: rgb(255, 255, 255);
+    font-family:cursive;
 }
 #main {
 
@@ -43,4 +45,9 @@ h1 {
 h3
 {
     text-align: end;
+}
+#insta
+{
+    align-items: center;
+    align-content: center;
 }
