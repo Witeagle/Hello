@@ -21,7 +21,7 @@ p{
 
 background-image: url(img2.jpg);
 background-repeat: no-repeat;
-background-position: 20%;
+background-position: 5%;
 background-size: 100px ;
 
 }
@@ -38,7 +38,7 @@ h1 {
     
     color: #fffefe;
     font-size: 30px;
-    text-align: center;  
+    text-align: right;  
 }
 h3
 {
